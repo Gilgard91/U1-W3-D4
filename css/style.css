@@ -1,0 +1,31 @@
+.numero{
+    font-size: 10px;
+    display: inline-block;
+    border: 1px solid red;
+    border-radius: 8px;
+    width: 9%;
+    
+    
+}
+
+.numero h3{
+   text-align: center;
+    
+}
+
+.container{
+    max-width: 450px;
+    
+}
+
+#tombola-container{
+    background-color :#0c0b1d;
+    color: #ebebeb;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+
+.numero.selected{
+    background-color: green;
+}
